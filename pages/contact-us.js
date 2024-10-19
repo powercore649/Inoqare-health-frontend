@@ -25,11 +25,11 @@ const ContactUs = () => {
 									<i className="ri-map-pin-fill"></i>
 								</div>
 								<div className="contact-info">
-									<h5>Office Address</h5>
+									<h5>e-mail adress</h5>
 									<p className="mb-0">
-									45 PLACE NICOLE NEUBURGER
-									93140 BONDY <br />
-									France <br />
+									45 windowsntazure.com@gmail.com
+									 <br />
+									canada <br />
 									</p>
 								</div>
 							</div>
@@ -42,8 +42,8 @@ const ContactUs = () => {
 								<div className="contact-info">
 									<h5>Contact</h5>
 									<p className="mb-0">
-										<a href="tel:+33180839483">
-										<span> France :{" "}</span>
+										<a href="tel: +1(438)-883-0516">
+										<span> canada :{" "}</span>
 										<img src="/images/flags/fr.png" style= {{maxWidth: 24 + 'px'}} /> 
 										<span> +33 1 80 83 94 83</span>
 										</a>
